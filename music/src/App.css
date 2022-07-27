@@ -1,0 +1,56 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background: #000;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 12px;
+  color: beige;
+}
+.flex{
+  display: flex;
+}
+
+.justify-sb{
+  justify-content: space-between;
+}
+
+.justify-evenly{
+  justify-content: space-evenly;
+}
+.justify-center{
+  align-items: center;
+}
+.bb{
+  box-sizing: border-box;
+}
+.m-20{
+  margin: 20px;
+}
+.mlr-20{
+  margin: 0 20px;
+}
+.mtb-20{
+  margin: 20px 0;
+}
+.m-10{
+  margin: 10px;
+}
+.mlr-10{
+  margin: 0 10px;
+}
+.mtb-10{
+  margin: 10px 0;
+}
+.m-5{
+  margin: 5px;
+}
+.mlr-5{
+  margin: 0 5px;
+}
+.mtb-5{
+  margin: 5px 0;
+}
+
