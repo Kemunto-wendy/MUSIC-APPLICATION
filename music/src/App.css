@@ -4,11 +4,14 @@
 }
 
 body{
-  background: #000;
+  background-image: url("images/guitar.jpg");
   font-family: 'Times New Roman', Times, serif;
   font-size: 12px;
   color: beige;
+  background-size: cover;
+  background-position: center;
 }
+
 .flex{
   display: flex;
 }
