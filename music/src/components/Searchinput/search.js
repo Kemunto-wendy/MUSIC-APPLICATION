@@ -1,8 +1,8 @@
 import './search.css'
 const SearchInput = props => {
     return(
-        <div>
-            <input />
+        <div className='search-container'>
+            <input placeholder='Search for Music'/>
         </div>
     )
 }

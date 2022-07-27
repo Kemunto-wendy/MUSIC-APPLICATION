@@ -1,0 +1,18 @@
+.search-container{
+  width: 20%;
+  padding: 10px;
+  background: purple;
+  box-sizing: border-box;
+  border-radius: 30px;
+  
+  
+}
+
+.search-container > input{
+    border: none;
+    outline: none;
+    background: transparent;
+    width: 50%;
+    color: black;
+    font-weight: bolder;
+}
