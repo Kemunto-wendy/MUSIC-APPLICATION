@@ -43,7 +43,7 @@ h5 {
 
 }
 
-.App form input:first-child {
+.App .m-20 form input:first-child {
   display: inline-block;
   width: 100%;
   padding: 14px 130px 14px 15px;
